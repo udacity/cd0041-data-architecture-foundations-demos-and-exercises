@@ -1,0 +1,67 @@
+{
+  "contract": {
+    "name": "student_grades",
+    "version": "1.0.0",
+    "description": "Data contract for student grades CSV dataset",
+    "created": "2026-05-28",
+    "owner": "Benjamin Larson"
+  },
+  "source": {
+    "format": "csv",
+    "filename": "student_grades.csv",
+    "encoding": "utf-8",
+    "has_header": true,
+    "delimiter": ","
+  },
+  "schema": {
+    "expected_columns": [
+      "Student Name",
+      "Class",
+      "Semester",
+      "Grade"
+    ],
+    "fields": {
+      "Student Name": {
+        "type": "string",
+        "nullable": false,
+        "min_length": 3,
+        "max_length": 100,
+        "pattern": "^[A-Za-z]+ [A-Za-z]+$",
+        "description": "Full name of the student in 'First Last' format"
+      },
+      "Class": {
+        "type": "string",
+        "nullable": false,
+        "allowed_values": [
+          "Calculus 1",
+          "English 101",
+          "Python 101",
+          "Intro to Databases"
+        ],
+        "description": "Name of the class the student is enrolled in"
+      },
+      "Semester": {
+        "type": "string",
+        "nullable": false,
+        "allowed_values": [
+          "Fall",
+          "Spring"
+        ],
+        "description": "Semester in which the class was taken"
+      },
+      "Grade": {
+        "type": "integer",
+        "nullable": false,
+        "min_value": 60,
+        "max_value": 100,
+        "description": "Numeric grade achieved by the student (60-100)"
+      }
+    }
+  },
+  "quality_rules": {
+    "no_duplicate_rows": true,
+    "min_row_count": 1,
+    "max_row_count": 10000,
+    "no_empty_file": true
+  }
+}
