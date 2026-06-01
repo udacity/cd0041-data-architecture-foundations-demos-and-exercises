@@ -1,0 +1,101 @@
+contact_log_id,contact_date,contact_method,contact_topic,contact_outcome,estimated_opportunity_value,next_follow_up_date,client_id,client_name,industry,state,client_status,sales_rep_id,rep_first_name,rep_last_name,rep_email,territory
+LOG00001,2025-01-05,Phone,New equipment inquiry,Follow-up Needed,11779.52,2025-01-20,CL0001,Summit Bistro,Restaurant,NJ,Active,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00002,2025-01-09,Email,Pricing discussion,Quote Requested,34664.6,2025-01-25,CL0002,Blue Ridge Hospitality Group,Hotel,GA,Prospect,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00003,2025-01-13,Video Call,Warranty question,Demo Scheduled,58038.0,2025-01-30,CL0003,Oak Valley Dining Services,Hospital,MI,At Risk,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00004,2025-01-17,Onsite Visit,Replacement parts,No Response,0.0,2025-02-04,CL0004,Metro Medical Center,School,OK,Active,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00005,2025-01-21,Phone,Annual contract review,Closed Won,55164.96,2025-02-09,CL0005,Prime Schools,Corporate Cafeteria,CO,Prospect,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00006,2025-01-25,Email,Demo follow-up,Closed Lost,0.0,2025-02-14,CL0006,Lakeside Food Distribution,Food Service Distributor,NJ,At Risk,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00007,2025-01-29,Video Call,Quote review,Follow-up Needed,60201.51,2025-02-19,CL0007,Evergreen Bistro,Restaurant,GA,Active,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00008,2025-02-02,Onsite Visit,Delivery timeline,Quote Requested,40434.7,2025-02-24,CL0008,Grandview Hospitality Group,Hotel,MI,Prospect,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00009,2025-02-06,Phone,Service issue,Demo Scheduled,6931.37,2025-03-01,CL0009,Silver Spoon Dining Services,Hospital,OK,At Risk,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00010,2025-02-10,Email,Expansion planning,No Response,0.0,2025-03-06,CL0010,Harvest Medical Center,School,CO,Active,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00011,2025-02-14,Video Call,New equipment inquiry,Closed Won,4543.68,2025-03-11,CL0011,Cedar Point Schools,Corporate Cafeteria,NJ,Prospect,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00012,2025-02-18,Onsite Visit,Pricing discussion,Closed Lost,0.0,2025-03-16,CL0012,Riverstone Food Distribution,Food Service Distributor,GA,At Risk,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00013,2025-02-22,Phone,Warranty question,Follow-up Needed,71083.77,2025-03-21,CL0013,Northstar Bistro,Restaurant,MI,Active,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00014,2025-02-26,Email,Replacement parts,Quote Requested,25815.96,2025-03-26,CL0014,Golden Plate Hospitality Group,Hotel,OK,Prospect,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00015,2025-03-02,Video Call,Annual contract review,Demo Scheduled,23896.04,2025-03-31,CL0015,Pioneer Dining Services,Hospital,CO,At Risk,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00016,2025-03-06,Onsite Visit,Demo follow-up,No Response,0.0,2025-04-05,CL0016,Horizon Medical Center,School,NJ,Active,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00017,2025-03-10,Phone,Quote review,Closed Won,16086.35,2025-04-10,CL0017,Liberty Schools,Corporate Cafeteria,GA,Prospect,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00018,2025-03-14,Email,Delivery timeline,Closed Lost,0.0,2025-04-15,CL0018,Parkside Food Distribution,Food Service Distributor,MI,At Risk,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00019,2025-03-18,Video Call,Service issue,Follow-up Needed,14956.02,2025-04-20,CL0019,Crescent Bistro,Restaurant,OK,Active,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00020,2025-03-22,Onsite Visit,Expansion planning,Quote Requested,26678.33,2025-04-25,CL0020,Maple Grove Hospitality Group,Hotel,CO,Prospect,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00021,2025-03-26,Phone,New equipment inquiry,Demo Scheduled,47347.8,2025-04-09,CL0021,Ironwood Dining Services,Hospital,NJ,At Risk,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00022,2025-03-30,Email,Pricing discussion,No Response,0.0,2025-04-14,CL0022,Clearwater Medical Center,School,GA,Active,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00023,2025-04-03,Video Call,Warranty question,Closed Won,16601.72,2025-04-19,CL0023,Stonebridge Schools,Corporate Cafeteria,MI,Prospect,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00024,2025-04-07,Onsite Visit,Replacement parts,Closed Lost,0.0,2025-04-24,CL0024,Redwood Food Distribution,Food Service Distributor,OK,At Risk,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00025,2025-04-11,Phone,Annual contract review,Follow-up Needed,42099.58,2025-04-29,CL0025,Brightway Bistro,Restaurant,CO,Active,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00026,2025-04-15,Email,Demo follow-up,Quote Requested,67685.25,2025-05-04,CL0026,Greenfield Hospitality Group,Hotel,NJ,Prospect,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00027,2025-04-19,Video Call,Quote review,Demo Scheduled,61533.35,2025-05-09,CL0027,Elm Street Dining Services,Hospital,GA,At Risk,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00028,2025-04-23,Onsite Visit,Delivery timeline,No Response,0.0,2025-05-14,CL0028,Harborview Medical Center,School,MI,Active,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00029,2025-04-27,Phone,Service issue,Closed Won,48992.18,2025-05-19,CL0029,Valley Forge Schools,Corporate Cafeteria,OK,Prospect,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00030,2025-05-01,Email,Expansion planning,Closed Lost,0.0,2025-05-24,CL0030,Westbrook Food Distribution,Food Service Distributor,CO,At Risk,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00031,2025-05-05,Video Call,New equipment inquiry,Follow-up Needed,1417.74,2025-05-29,CL0001,Summit Bistro,Restaurant,NJ,Active,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00032,2025-05-09,Onsite Visit,Pricing discussion,Quote Requested,30268.2,2025-06-03,CL0002,Blue Ridge Hospitality Group,Hotel,GA,Prospect,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00033,2025-05-13,Phone,Warranty question,Demo Scheduled,58239.05,2025-06-08,CL0003,Oak Valley Dining Services,Hospital,MI,At Risk,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00034,2025-05-17,Email,Replacement parts,No Response,0.0,2025-06-13,CL0004,Metro Medical Center,School,OK,Active,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00035,2025-05-21,Video Call,Annual contract review,Closed Won,15255.41,2025-06-18,CL0005,Prime Schools,Corporate Cafeteria,CO,Prospect,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00036,2025-05-25,Onsite Visit,Demo follow-up,Closed Lost,0.0,2025-06-23,CL0006,Lakeside Food Distribution,Food Service Distributor,NJ,At Risk,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00037,2025-05-29,Phone,Quote review,Follow-up Needed,68619.49,2025-06-28,CL0007,Evergreen Bistro,Restaurant,GA,Active,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00038,2025-06-02,Email,Delivery timeline,Quote Requested,18554.65,2025-07-03,CL0008,Grandview Hospitality Group,Hotel,MI,Prospect,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00039,2025-06-06,Video Call,Service issue,Demo Scheduled,34166.24,2025-07-08,CL0009,Silver Spoon Dining Services,Hospital,OK,At Risk,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00040,2025-06-10,Onsite Visit,Expansion planning,No Response,0.0,2025-07-13,CL0010,Harvest Medical Center,School,CO,Active,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00041,2025-06-14,Phone,New equipment inquiry,Closed Won,67773.38,2025-07-18,CL0011,Cedar Point Schools,Corporate Cafeteria,NJ,Prospect,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00042,2025-06-18,Email,Pricing discussion,Closed Lost,0.0,2025-07-02,CL0012,Riverstone Food Distribution,Food Service Distributor,GA,At Risk,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00043,2025-06-22,Video Call,Warranty question,Follow-up Needed,41992.42,2025-07-07,CL0013,Northstar Bistro,Restaurant,MI,Active,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00044,2025-06-26,Onsite Visit,Replacement parts,Quote Requested,72670.78,2025-07-12,CL0014,Golden Plate Hospitality Group,Hotel,OK,Prospect,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00045,2025-06-30,Phone,Annual contract review,Demo Scheduled,46073.42,2025-07-17,CL0015,Pioneer Dining Services,Hospital,CO,At Risk,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00046,2025-07-04,Email,Demo follow-up,No Response,0.0,2025-07-22,CL0016,Horizon Medical Center,School,NJ,Active,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00047,2025-07-08,Video Call,Quote review,Closed Won,58346.71,2025-07-27,CL0017,Liberty Schools,Corporate Cafeteria,GA,Prospect,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00048,2025-07-12,Onsite Visit,Delivery timeline,Closed Lost,0.0,2025-08-01,CL0018,Parkside Food Distribution,Food Service Distributor,MI,At Risk,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00049,2025-07-16,Phone,Service issue,Follow-up Needed,22449.29,2025-08-06,CL0019,Crescent Bistro,Restaurant,OK,Active,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00050,2025-07-20,Email,Expansion planning,Quote Requested,44687.72,2025-08-11,CL0020,Maple Grove Hospitality Group,Hotel,CO,Prospect,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00051,2025-07-24,Video Call,New equipment inquiry,Demo Scheduled,40085.26,2025-08-16,CL0021,Ironwood Dining Services,Hospital,NJ,At Risk,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00052,2025-07-28,Onsite Visit,Pricing discussion,No Response,0.0,2025-08-21,CL0022,Clearwater Medical Center,School,GA,Active,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00053,2025-08-01,Phone,Warranty question,Closed Won,64208.7,2025-08-26,CL0023,Stonebridge Schools,Corporate Cafeteria,MI,Prospect,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00054,2025-08-05,Email,Replacement parts,Closed Lost,0.0,2025-08-31,CL0024,Redwood Food Distribution,Food Service Distributor,OK,At Risk,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00055,2025-08-09,Video Call,Annual contract review,Follow-up Needed,36783.73,2025-09-05,CL0025,Brightway Bistro,Restaurant,CO,Active,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00056,2025-08-13,Onsite Visit,Demo follow-up,Quote Requested,57351.12,2025-09-10,CL0026,Greenfield Hospitality Group,Hotel,NJ,Prospect,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00057,2025-08-17,Phone,Quote review,Demo Scheduled,61222.57,2025-09-15,CL0027,Elm Street Dining Services,Hospital,GA,At Risk,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00058,2025-08-21,Email,Delivery timeline,No Response,0.0,2025-09-20,CL0028,Harborview Medical Center,School,MI,Active,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00059,2025-08-25,Video Call,Service issue,Closed Won,49211.5,2025-09-25,CL0029,Valley Forge Schools,Corporate Cafeteria,OK,Prospect,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00060,2025-08-29,Onsite Visit,Expansion planning,Closed Lost,0.0,2025-09-30,CL0030,Westbrook Food Distribution,Food Service Distributor,CO,At Risk,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00061,2025-09-02,Phone,New equipment inquiry,Follow-up Needed,63705.57,2025-10-05,CL0001,Summit Bistro,Restaurant,NJ,Active,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00062,2025-09-06,Email,Pricing discussion,Quote Requested,68287.96,2025-10-10,CL0002,Blue Ridge Hospitality Group,Hotel,GA,Prospect,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00063,2025-09-10,Video Call,Warranty question,Demo Scheduled,53891.03,2025-09-24,CL0003,Oak Valley Dining Services,Hospital,MI,At Risk,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00064,2025-09-14,Onsite Visit,Replacement parts,No Response,0.0,2025-09-29,CL0004,Metro Medical Center,School,OK,Active,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00065,2025-09-18,Phone,Annual contract review,Closed Won,39004.84,2025-10-04,CL0005,Prime Schools,Corporate Cafeteria,CO,Prospect,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00066,2025-09-22,Email,Demo follow-up,Closed Lost,0.0,2025-10-09,CL0006,Lakeside Food Distribution,Food Service Distributor,NJ,At Risk,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00067,2025-09-26,Video Call,Quote review,Follow-up Needed,44118.65,2025-10-14,CL0007,Evergreen Bistro,Restaurant,GA,Active,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00068,2025-09-30,Onsite Visit,Delivery timeline,Quote Requested,11891.96,2025-10-19,CL0008,Grandview Hospitality Group,Hotel,MI,Prospect,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00069,2025-10-04,Phone,Service issue,Demo Scheduled,51022.2,2025-10-24,CL0009,Silver Spoon Dining Services,Hospital,OK,At Risk,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00070,2025-10-08,Email,Expansion planning,No Response,0.0,2025-10-29,CL0010,Harvest Medical Center,School,CO,Active,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00071,2025-10-12,Video Call,New equipment inquiry,Closed Won,13188.14,2025-11-03,CL0011,Cedar Point Schools,Corporate Cafeteria,NJ,Prospect,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00072,2025-10-16,Onsite Visit,Pricing discussion,Closed Lost,0.0,2025-11-08,CL0012,Riverstone Food Distribution,Food Service Distributor,GA,At Risk,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00073,2025-10-20,Phone,Warranty question,Follow-up Needed,53257.47,2025-11-13,CL0013,Northstar Bistro,Restaurant,MI,Active,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00074,2025-10-24,Email,Replacement parts,Quote Requested,9954.24,2025-11-18,CL0014,Golden Plate Hospitality Group,Hotel,OK,Prospect,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00075,2025-10-28,Video Call,Annual contract review,Demo Scheduled,4753.3,2025-11-23,CL0015,Pioneer Dining Services,Hospital,CO,At Risk,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00076,2025-11-01,Onsite Visit,Demo follow-up,No Response,0.0,2025-11-28,CL0016,Horizon Medical Center,School,NJ,Active,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00077,2025-11-05,Phone,Quote review,Closed Won,17216.85,2025-12-03,CL0017,Liberty Schools,Corporate Cafeteria,GA,Prospect,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00078,2025-11-09,Email,Delivery timeline,Closed Lost,0.0,2025-12-08,CL0018,Parkside Food Distribution,Food Service Distributor,MI,At Risk,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00079,2025-11-13,Video Call,Service issue,Follow-up Needed,46966.83,2025-12-13,CL0019,Crescent Bistro,Restaurant,OK,Active,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00080,2025-11-17,Onsite Visit,Expansion planning,Quote Requested,49161.46,2025-12-18,CL0020,Maple Grove Hospitality Group,Hotel,CO,Prospect,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00081,2025-11-21,Phone,New equipment inquiry,Demo Scheduled,56407.43,2025-12-23,CL0021,Ironwood Dining Services,Hospital,NJ,At Risk,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00082,2025-11-25,Email,Pricing discussion,No Response,0.0,2025-12-28,CL0022,Clearwater Medical Center,School,GA,Active,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00083,2025-11-29,Video Call,Warranty question,Closed Won,25696.81,2026-01-02,CL0023,Stonebridge Schools,Corporate Cafeteria,MI,Prospect,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00084,2025-12-03,Onsite Visit,Replacement parts,Closed Lost,0.0,2025-12-17,CL0024,Redwood Food Distribution,Food Service Distributor,OK,At Risk,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00085,2025-12-07,Phone,Annual contract review,Follow-up Needed,9438.21,2025-12-22,CL0025,Brightway Bistro,Restaurant,CO,Active,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00086,2025-12-11,Email,Demo follow-up,Quote Requested,15269.3,2025-12-27,CL0026,Greenfield Hospitality Group,Hotel,NJ,Prospect,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00087,2025-12-15,Video Call,Quote review,Demo Scheduled,39870.96,2026-01-01,CL0027,Elm Street Dining Services,Hospital,GA,At Risk,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00088,2025-12-19,Onsite Visit,Delivery timeline,No Response,0.0,2026-01-06,CL0028,Harborview Medical Center,School,MI,Active,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00089,2025-12-23,Phone,Service issue,Closed Won,16476.78,2026-01-11,CL0029,Valley Forge Schools,Corporate Cafeteria,OK,Prospect,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00090,2025-12-27,Email,Expansion planning,Closed Lost,0.0,2026-01-16,CL0030,Westbrook Food Distribution,Food Service Distributor,CO,At Risk,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00091,2025-12-31,Video Call,New equipment inquiry,Follow-up Needed,70294.84,2026-01-21,CL0001,Summit Bistro,Restaurant,NJ,Active,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00092,2026-01-04,Onsite Visit,Pricing discussion,Quote Requested,30645.1,2026-01-26,CL0002,Blue Ridge Hospitality Group,Hotel,GA,Prospect,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00093,2026-01-08,Phone,Warranty question,Demo Scheduled,53777.47,2026-01-31,CL0003,Oak Valley Dining Services,Hospital,MI,At Risk,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00094,2026-01-12,Email,Replacement parts,No Response,0.0,2026-02-05,CL0004,Metro Medical Center,School,OK,Active,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00095,2026-01-16,Video Call,Annual contract review,Closed Won,49820.34,2026-02-10,CL0005,Prime Schools,Corporate Cafeteria,CO,Prospect,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
+LOG00096,2026-01-20,Onsite Visit,Demo follow-up,Closed Lost,0.0,2026-02-15,CL0006,Lakeside Food Distribution,Food Service Distributor,NJ,At Risk,SR001,Olivia,Carter,olivia.carter@abcsales.com,Northeast
+LOG00097,2026-01-24,Phone,Quote review,Follow-up Needed,41336.5,2026-02-20,CL0007,Evergreen Bistro,Restaurant,GA,Active,SR002,Marcus,Lee,marcus.lee@abcsales.com,Southeast
+LOG00098,2026-01-28,Email,Delivery timeline,Quote Requested,52861.74,2026-02-25,CL0008,Grandview Hospitality Group,Hotel,MI,Prospect,SR003,Priya,Shah,priya.shah@abcsales.com,Midwest
+LOG00099,2026-02-01,Video Call,Service issue,Demo Scheduled,12923.4,2026-03-02,CL0009,Silver Spoon Dining Services,Hospital,OK,At Risk,SR004,Daniel,Nguyen,daniel.nguyen@abcsales.com,Southwest
+LOG00100,2026-02-05,Onsite Visit,Expansion planning,No Response,0.0,2026-03-07,CL0010,Harvest Medical Center,School,CO,Active,SR005,Emily,Rivera,emily.rivera@abcsales.com,West
