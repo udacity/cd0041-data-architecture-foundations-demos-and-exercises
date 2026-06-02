@@ -1,0 +1,11 @@
+software_id,software_name,software_category,version,vendor_id
+SW00001,InsightFlow Analytics,Analytics,5.2,VEN0001
+SW00002,NimbusSphere Platform,Cloud Platform,3.8,VEN0002
+SW00003,ShieldMatrix Secure,Cybersecurity,8.1,VEN0003
+SW00004,ServicePilot ITOM,IT Operations,4.0,VEN0004
+SW00005,ClientPulse CRM,CRM,7.5,VEN0005
+SW00006,DataHarbor DB,Database,11.2,VEN0006
+SW00007,SkyLedger ERP,ERP,9.4,VEN0007
+SW00008,ThreatVision X,Cybersecurity,6.0,VEN0008
+SW00009,TeamBridge Connect,Collaboration,2.9,VEN0009
+SW00010,CloudTrack Monitor,Cloud Platform,4.7,VEN0010
