@@ -1,0 +1,11 @@
+distribution_center_id,distribution_center_name,city,state,region
+DC0001,Distribution Center 1,City1,NJ,West
+DC0002,Distribution Center 2,City2,NJ,Northeast
+DC0003,Distribution Center 3,City3,TX,Southeast
+DC0004,Distribution Center 4,City4,IL,Southwest
+DC0005,Distribution Center 5,City5,IL,Southeast
+DC0006,Distribution Center 6,City6,IL,Northeast
+DC0007,Distribution Center 7,City7,TX,Southwest
+DC0008,Distribution Center 8,City8,NJ,Southwest
+DC0009,Distribution Center 9,City9,CA,Southwest
+DC0010,Distribution Center 10,City10,CA,Southwest

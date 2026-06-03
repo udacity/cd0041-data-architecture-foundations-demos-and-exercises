@@ -1,0 +1,7 @@
+payment_type_id,payment_type_name,payment_provider
+PAY001,Credit Card,Visa
+PAY002,Credit Card,Mastercard
+PAY003,Debit Card,Bank Debit
+PAY004,Store Card,BigBox Rewards
+PAY005,Gift Card,BigBox Gift
+PAY006,Digital Wallet,PayFast
