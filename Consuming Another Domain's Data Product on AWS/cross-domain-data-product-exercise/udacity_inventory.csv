@@ -1,0 +1,31 @@
+inventory_id,product_name,product_category,unit_price,quantity_on_hand,distribution_center_id
+INV00001,Wireless Charger,Electronics,715.93,359,DC003
+INV00002,Mini Fridge,Appliances,82.54,384,DC003
+INV00003,Air Purifier,Appliances,411.14,342,DC001
+INV00004,Mini Fridge,Appliances,674.89,101,DC004
+INV00005,Cordless Drill,Hardware,389.72,81,DC001
+INV00006,Tool Set,Hardware,39.31,426,DC003
+INV00007,Grill Cover,Outdoor,571.68,447,DC002
+INV00008,Garden Hose,Outdoor,67.38,306,DC004
+INV00009,Garden Hose,Outdoor,164.61,271,DC002
+INV00010,Grill Cover,Outdoor,295.56,142,DC002
+INV00011,Tape Measure,Hardware,846.11,222,DC005
+INV00012,Smart Plug,Electronics,628.24,133,DC005
+INV00013,Sparkling Water,Grocery,580.88,194,DC003
+INV00014,Trail Mix,Grocery,176.22,281,DC003
+INV00015,Snack Variety Pack,Grocery,232.51,432,DC002
+INV00016,Wireless Charger,Electronics,604.79,450,DC003
+INV00017,Solar Path Light,Outdoor,266.72,277,DC002
+INV00018,Coffee Pods,Grocery,434.46,374,DC001
+INV00019,Throw Blanket,Home Goods,159.88,29,DC003
+INV00020,Solar Path Light,Outdoor,391.63,293,DC005
+INV00021,Tape Measure,Hardware,789.51,435,DC001
+INV00022,Trail Mix,Grocery,725.26,302,DC003
+INV00023,Tape Measure,Hardware,824.09,482,DC002
+INV00024,Tape Measure,Hardware,781.27,244,DC005
+INV00025,Storage Basket,Home Goods,870.69,181,DC003
+INV00026,Tape Measure,Hardware,614.16,35,DC005
+INV00027,Mini Fridge,Appliances,300.88,216,DC003
+INV00028,Garden Hose,Outdoor,318.42,99,DC001
+INV00029,Tool Set,Hardware,153.12,277,DC005
+INV00030,Throw Blanket,Home Goods,324.75,72,DC003

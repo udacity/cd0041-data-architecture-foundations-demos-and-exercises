@@ -1,0 +1,6 @@
+distribution_center_id,distribution_center_name,city,state,region
+DC001,North Ridge DC,Newark,NJ,Northeast
+DC002,Lakeview DC,Columbus,OH,Midwest
+DC003,Sunbelt DC,Dallas,TX,Southwest
+DC004,Pacific Gate DC,Fresno,CA,West
+DC005,Coastal South DC,Atlanta,GA,Southeast
