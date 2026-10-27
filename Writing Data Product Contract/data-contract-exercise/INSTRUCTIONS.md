@@ -32,7 +32,7 @@ format — the file type
 delimiter — the character separating values
 has_header — whether the first row is a header (true or false)
 1c. Schema Definition
-Include a schema section with a fields object. For each of the four columns define:
+Include a schema section with an expected_columns list naming the four required columns, and a fields object. For each of the four columns in fields, define:
 type — the data type (string or integer)
 nullable — whether empty values are allowed (all columns are required)
 allowed_values — for Class and Semester, list the only accepted values
@@ -56,6 +56,7 @@ json
     "has_header": ...
   },
   "schema": {
+    "expected_columns": ["Student Name", "Class", "Semester", "Grade"],
     "fields": {
       "Student Name": {
         "type": "...",
